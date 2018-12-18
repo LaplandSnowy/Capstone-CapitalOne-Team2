@@ -27,6 +27,9 @@ can be downloaded [here](https://drive.google.com/open?id=0B8JIKvhJUvRdfjBaaFB3T
 for private use.
 3. [Products reviews from Amazon](http://jmcauley.ucsd.edu/data/amazon/)
 
+## Reproducing the Experiments
+Run scripts/notebooks under the folders to reproduce the experiment results
+
 ## Resource
 1. [Shared Google Drive](https://drive.google.com/drive/folders/1lP2mS8plxiPjW4NFiCB1b5lMyF20gIgG?usp=sharing_eip&ts=5bb51c13)
-
+2. https://github.com/NiHaozheng/fake_review_sentiments_capstone_f18/tree/Team-Two
